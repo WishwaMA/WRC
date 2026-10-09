@@ -1,0 +1,172 @@
+{
+  "news": {
+    "news_1": {
+      "category": "Academic",
+      "date": "October 8, 2026",
+      "fullDesc": "Wayamba Royal College has once again proven its excellence in technology and innovation. Our advanced level ICT student team secured the 1st place at the Western Provincial IT Competition by presenting an advanced school management prototype.",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=800",
+      "shortDesc": "Our students secured 1st place in the annual provincial software development exhibition.",
+      "title": "Wayamba Royal College Shines at Provincial IT Competition"
+    },
+    "news_2": {
+      "category": "Sports",
+      "date": "October 10, 2026",
+      "fullDesc": "The annual inter-house cricket tournament finals will commence next week at the main school grounds. All four houses (Tissa, Gemunu, Parakrama, Vijaya) have completed rigorous practice sessions. Parents and past pupils are cordially invited to witness the exciting matches.",
+      "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?q=80&w=800",
+      "shortDesc": "The much-awaited annual big match and inter-house cricket finals are scheduled to begin...",
+      "title": "Inter-House Cricket Championship Finals Next Week"
+    },
+    "news_3": {
+      "category": "Events",
+      "date": "October 8, 2026",
+      "fullDesc": "The Annual Prize Giving Ceremony 2026 will be held at the school main auditorium with the distinguished presence of honorable ministers and educational directors. Invitations have already been dispatched to parents of the prize winners.",
+      "image": "https://www.wayambaroyal.lk/images/img_slide_44.jpg",
+      "shortDesc": "Honoring academic and sports excellence of our brilliant students for the past year.",
+      "title": "Annual Prize Giving Ceremony 2026 Announced"
+    }
+  },
+  "events": {
+    "ev_1": {
+      "category": "Sports",
+      "date": "October 25, 2026",
+      "fullDesc": "All four houses have been training vigorously for track and field events. Parents and alumni are warmly welcome.",
+      "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?q=80&w=800",
+      "shortDesc": "Get ready for the most anticipated athletic showdown of the year at school grounds.",
+      "title": "Inter-House Annual Sports Meet 2026"
+    },
+    "ev_2": {
+      "category": "Cultural",
+      "date": "November 5, 2026",
+      "fullDesc": "The English Literary Association proudly presents classical and modern stage adaptations performed entirely by students.",
+      "image": "https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?q=80&w=800",
+      "shortDesc": "Showcasing extraordinary theatrical talents of our college dramatic society students.",
+      "title": "Annual English Drama Festival"
+    }
+  },
+  "settings": {
+    "hero": {
+      "slides": {
+        "0": {
+          "id": "1",
+          "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1600",
+          "title": "Empowering the Next Generation of Leaders",
+          "subtitle": "Welcome to Wayamba Royal College"
+        },
+        "1": {
+          "id": "2",
+          "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?q=80&w=1600",
+          "title": "Excellence in Sports & Athletics",
+          "subtitle": "Building Strong Minds and Bodies"
+        },
+        "2": {
+          "id": "3",
+          "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=1600",
+          "title": "Advanced Technological Education",
+          "subtitle": "Shining at Provincial IT Competitions"
+        },
+        "3": {
+          "id": "4",
+          "image": "https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?q=80&w=1600",
+          "title": "Cultural & Aesthetic Brilliance",
+          "subtitle": "Showcasing Extraordinary Talents"
+        },
+        "4": {
+          "id": "5",
+          "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?q=80&w=1600",
+          "title": "25 Years of Golden Legacy",
+          "subtitle": "Proudly Shaping Futures Since Inception"
+        }
+      }
+    },
+    "footer": {
+      "footerText": "Empowering the next generation of leaders."
+    },
+    "navbar": {
+      "logoImage": "https://www.wayambaroyal.lk/images/logo_WRC.png",
+      "logoText": "WRC ",
+      "schoolName": "Wayamba Royal",
+      "subName": "COLLEGE "
+    },
+    "principal": {
+      "principalImage": "https://www.wayambaroyal.lk/images/past_pri/6.jpg",
+      "principalMessage": "At Wayamba Royal College, we believe in nurturing every student to reach their fullest potential. Our dedicated staff combined with modern facilities ensure that our students excel not only in academics but also in sports, ethics, and leadership.",
+      "principalName": "Mr. K. R. Wickramasinghe ",
+      "principalQuote": "Guiding Minds, Shaping Characters",
+      "principalTitle": "Principal, Wayamba Royal College Kurunegala"
+    },
+    "stats": {
+      "totalStudents": "2,500+",
+      "qualifiedTeachers": "120+",
+      "sportsSocieties": "25+",
+      "yearsOfExcellence": "25"
+    },
+    "exam": {
+      "al": {
+        "items": {
+          "0": {
+            "desc": "Entered state universities across various streams.",
+            "id": "1",
+            "title": "University Selections",
+            "value": "85+ Students"
+          },
+          "1": {
+            "desc": "Consistent academic excellence year over year.",
+            "id": "2",
+            "title": "A/L Pass Rate",
+            "value": "96.5%"
+          },
+          "2": {
+            "desc": "Secured top positions in the Kurunegala district.",
+            "id": "3",
+            "title": "District Ranks",
+            "value": "Top 10"
+          }
+        }
+      },
+      "ol": {
+        "items": {
+          "0": {
+            "desc": "Achieved distinctions in all subjects.",
+            "id": "1",
+            "title": "A9 Holders",
+            "value": "45+ Students"
+          },
+          "1": {
+            "desc": "Outstanding performance in national O/L examination.",
+            "id": "2",
+            "title": "O/L Pass Rate",
+            "value": "98.2%"
+          },
+          "2": {
+            "desc": "Successfully qualified for advanced level streams.",
+            "id": "3",
+            "title": "Qualified for A/L",
+            "value": "95%"
+          }
+        }
+      },
+      "scholarship": {
+        "items": {
+          "0": {
+            "desc": "Passed the Grade 5 scholarship examination.",
+            "id": "1",
+            "title": "Pass Count",
+            "value": "35+ Students"
+          },
+          "1": {
+            "desc": "High percentage surpassing district cut-offs.",
+            "id": "2",
+            "title": "Cut-off Success",
+            "value": "92%"
+          },
+          "2": {
+            "desc": "Brilliant scores achieved by our primary students.",
+            "id": "3",
+            "title": "Top District Scores",
+            "value": "175+ Marks"
+          }
+        }
+      }
+    }
+  }
+}
